@@ -8,6 +8,7 @@ const SideBar = () => {
       <p>This is the sidebar content.</p>
       <p>This is the sidebar content.</p>
       <p>This is the sidebar content.</p>
+      <h2>อะไรกันเนียย</h2>
     </div>
   );
 };
